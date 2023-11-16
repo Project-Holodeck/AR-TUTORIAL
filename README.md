@@ -50,4 +50,33 @@ Under **Identifcation** and **Configuration**:
 3. Make sure your **Scripting Backend** is **IL2CPP**
 <img width="694" alt="image" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/af8c7bf3-e32d-4425-b523-dd8eef5f2b72">
 
+# Keystore
+Open **Publishing Settings**, then **Keystore Manager**
+<img width="946" alt="Untitled" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/90f5b76d-6881-4a55-89f7-4a8d8f118ed8">
+
+At the top left of the Keystore Manager window, click on **Keystore** and **Create New**
+
+<img width="359" alt="image" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/de7bc42a-7c6a-401a-b47c-df253565e64b">
+
+Afterwards, fill in the following form inputs
+
+<img width="373" alt="image" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/91ca8915-8855-40cd-b6f6-9629dd1a529c">
+
+Back under publishing settings, make sure you have **Custom Keystore** checked, and entered your password
+
+<img width="686" alt="image" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/0e3435e3-4b3a-4788-973e-d23577c329ca">
+
+# Building
+Back in your Build Settings:
+1. Hit **Add Open Scenes**
+2. Make sure your **Run Device** is the Samsung phone we are using
+3. Check **Development Build**
+4. Hit **Build and Run**
+<img width="946" alt="Untitled" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/842a780a-403c-4c6b-b2d1-007381aa0894">
+
+Save your .apk file in a new folder called "Builds"
+
+<img width="465" alt="image" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/34c709a9-e7e1-452b-bbdc-a66592bf0a86">
+
+You are done! Make sure you let Scott (Zazzscoot) know on Discord if you have any issues!
 
