@@ -2,11 +2,22 @@
 Tutorial on deploying AR apps to Samsung Galaxy S10e for UTOPH's Unity Team Besties
 
 # Table of Contents
+* Install Android SDK
 * Setting up your project
 * Package Management
 * Modifying Settings
 * Keystore
 * Building
+
+# Install Android SDK
+1. On the Unity Editor, go to **Installs** and choose your favorite Unity version.
+2. Click on its gear icon
+3. Hit **Add Modules**
+<img width="750" alt="image" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/a9578b09-1461-4c43-a1f3-783ad0300afe">
+
+Check off **Android Build Support** and hit **Continue**
+
+<img width="516" alt="image" src="https://github.com/Project-Holodeck/AR-TUTORIAL/assets/86282459/9dffdc7d-8527-4b1f-88f9-ce274c1ba8d9">
 
 # Setting up your project
 From the Unity Editor, create a new AR core project
